@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab1Ex2</string>
+    <string name="shop">Магазин</string>
+    <string name="main">Главная</string>
+    <string name="community">Сообщество</string>
+    <string name="support">Поддержка</string>
+    <string name="profile">Профиль</string>
+    <string name="e_g_8">e.g 8</string>
+    <string name="todo">TODO</string>
+    <string name="shoping">Магазин</string>
+    <string name="delete">Delete</string>
+    <string name="ok">OK</string>
+    <string name="your_string"><b>Умные</b> подарки для музчин</string>
+    <string name="_30">со скидкой до 30%</string>
+    <string name="Now_more">  Узнать больше</string>
+</resources>
